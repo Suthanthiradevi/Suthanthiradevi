@@ -62,15 +62,21 @@ Passionate about transforming raw data into meaningful insights and building sca
 - Centralized sales, product, retailer, and order method data into a unified data warehouse
 - Created interactive reports and dashboards to support business decision-making
 
+🔗https://github.com/Suthanthiradevi/Cloud_Analytics_Project
+  
 ### 📊 E-commerce Discount Strategy Analysis
 - Analyzed impact of discounts on sales performance
 - Identified optimal discount levels using Python
 - Generated business insights for revenue optimization
 
+🔗https://github.com/Suthanthiradevi/Discount_Strategy
+
 ### 🛒 Market Expansion Analysis
 - Analyzed seller performance and delivery trends
 - Identified operational and geographic insights
 - Delivered business recommendations using data analysis
+
+🔗https://github.com/Suthanthiradevi/Market_Expansion_Data_Study
 
 ### 🔄 Gans Data Engineering Project
 - Retrieved population, weather, airport, and flight data from web sources and APIs
@@ -78,10 +84,14 @@ Passionate about transforming raw data into meaningful insights and building sca
 - Created a normalized database schema to support predictive analytics for e-scooter operations
 - Tools: Python, MySQL, OpenWeather API, AeroDataBox API
 
+🔗https://github.com/Suthanthiradevi/Data-Engineering-Project
+
 ### 🧪 A/B Testing Analysis
 - Performed statistical testing on user engagement data
 - Used Chi-square tests to compare website versions
 - Evaluated performance of different user experiences
+
+🔗https://github.com/Suthanthiradevi/A-B_Testing_Analysis
 
 ## 📈 GitHub Activity
 

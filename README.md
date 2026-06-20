@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suthanthira</h1>
 
 <h3 align="center">
- Data Analyst | Python | SQL | ETL | Analytics
+ Data Analyst | Aspiring Data Engineer | Python | SQL | ETL | Analytics
 </h3>
 
 <p align="center">
@@ -44,22 +44,44 @@ Passionate about transforming raw data into meaningful insights and building sca
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-orange?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Cloud-Learning-lightblue?style=for-the-badge)
 
+## ⚙️ Technical Skills
+
+* SQL for data extraction, joins, and analysis
+* Python (Pandas, NumPy) for data processing
+* ETL pipeline development (API + database integration)
+* MySQL database design and relational modeling
+* Tableau for dashboards and storytelling
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* A/B Testing and experimentation
+  
 ## 📂 Featured Projects
 
-### 📊 Sales Analytics Dashboard
-- Built interactive dashboards using Tableau
-- Analyzed sales performance and customer trends
-- Generated actionable business insights
+### 🏕️ GoOutside Data Analytics Solution
+- Built a cloud-based analytics workflow using BigQuery, Google Sheets, and Looker Studio
+- Centralized sales, product, retailer, and order method data into a unified data warehouse
+- Created interactive reports and dashboards to support business decision-making
 
-### 🛒 E-Commerce Data Analysis
-- Cleaned and transformed large datasets
-- Performed customer and product analysis
-- Created visual reports for decision-making
+### 📊 E-commerce Discount Strategy Analysis
+- Analyzed impact of discounts on sales performance
+- Identified optimal discount levels using Python
+- Generated business insights for revenue optimization
 
-### 🔄 ETL Data Pipeline Project
-- Extracted data from APIs and CSV files
-- Transformed data using Python and Pandas
-- Loaded data into MySQL databases
+### 🛒 Market Expansion Analysis
+- Analyzed seller performance and delivery trends
+- Identified operational and geographic insights
+- Delivered business recommendations using data analysis
+
+### 🔄 Gans Data Engineering Project
+- Retrieved population, weather, airport, and flight data from web sources and APIs
+- Connected Python workflows with MySQL for automated data storage and management
+- Created a normalized database schema to support predictive analytics for e-scooter operations
+- Tools: Python, MySQL, OpenWeather API, AeroDataBox API
+
+### 🧪 A/B Testing Analysis
+- Performed statistical testing on user engagement data
+- Used Chi-square tests to compare website versions
+- Evaluated performance of different user experiences
 
 ## 📈 GitHub Activity
 

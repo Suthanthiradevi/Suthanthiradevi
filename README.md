@@ -57,6 +57,25 @@ Passionate about transforming raw data into meaningful insights and building sca
   
 ## 📂 Featured Projects
 
+### 📊 Retail Sales & Profitability Analytics Dashboard
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+Built an end-to-end data analytics solution using Python, MySQL, and Tableau.
+
+• Cleaned and analyzed 9,994 retail sales transactions using Python (Pandas).
+• Designed a relational MySQL database with primary and foreign key relationships.
+• Performed SQL-based business analysis for sales, profitability, regional performance, and discount impact.
+• Developed an interactive Tableau dashboard with KPIs, trends, and business insights.
+
+🔗 https://github.com/Suthanthiradevi/Retail-sales-analytics-dashboard
+
+
+
 ### 🏕️ GoOutside Data Analytics Solution
 - Built a cloud-based analytics workflow using BigQuery, Google Sheets, and Looker Studio
 - Centralized sales, product, retailer, and order method data into a unified data warehouse

@@ -67,10 +67,10 @@ Passionate about transforming raw data into meaningful insights and building sca
 
 Built an end-to-end data analytics solution using Python, MySQL, and Tableau.
 
-• Cleaned and analyzed 9,994 retail sales transactions using Python (Pandas).
-• Designed a relational MySQL database with primary and foreign key relationships.
-• Performed SQL-based business analysis for sales, profitability, regional performance, and discount impact.
-• Developed an interactive Tableau dashboard with KPIs, trends, and business insights.
+- Cleaned and analyzed 9,994 retail sales transactions using Python (Pandas).
+- Designed a relational MySQL database with primary and foreign key relationships.
+- Performed SQL-based business analysis for sales, profitability, regional performance, and discount impact.
+- Developed an interactive Tableau dashboard with KPIs, trends, and business insights.
 
 🔗 https://github.com/Suthanthiradevi/Retail-sales-analytics-dashboard
 

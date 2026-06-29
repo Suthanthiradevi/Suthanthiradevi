@@ -36,7 +36,7 @@ Passionate about transforming raw data into meaningful insights and building sca
 ### Visualization
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Learning
 
@@ -56,6 +56,24 @@ Passionate about transforming raw data into meaningful insights and building sca
 * A/B Testing and experimentation
   
 ## 📂 Featured Projects
+
+### 🛍️ Customer Shopping Behavior Analysis Dashboard
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+Built an end-to-end customer analytics solution to explore purchasing patterns, customer demographics, and shopping behavior using Python, MySQL, and Power BI.
+
+* 🐍 Cleaned and analyzed **3,900 customer transactions** using Python (Pandas).
+* 🗄️ Performed SQL-based business analysis to answer key retail questions, including revenue by category, customer demographics, and subscription behavior.
+* 📊 Designed an interactive Power BI dashboard featuring KPIs, revenue trends, customer insights, and dynamic filters.
+* 💡 Generated actionable business recommendations to support targeted marketing and data-driven decision-making.
+
+🔗 https://github.com/Suthanthiradevi/Customer-Shopping-Behaviour-Analysis
 
 ### 📊 Retail Sales & Profitability Analytics Dashboard
 
